@@ -112,5 +112,4 @@ Register at - https://hacktoberfest.digitalocean.com/
 | Sokratis Fotkatzikis | I | IT | [@sokratis12GR](https://hacktoberfest.digitalocean.com/stats/sokratis12GR) |
 | Prateek Vijayvergiya | IV | CSE | [@prateekvijayvergiya](https://hacktoberfest.digitalocean.com/stats/prateekvijayvergiya) |
 | [Aditya Kaushik](https://github.com/aditya98ak) | III | CSE | [@aditya98ak](https://hacktoberfest.digitalocean.com/stats/aditya98ak)|
-
-
+|[Harsh Vijay]https://github.com/hvijaycse)|II|CSE|[@hvijaycse](https://hacktoberfest.digitalocean.com/stats/hvijaycse)|
